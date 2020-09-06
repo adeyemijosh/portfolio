@@ -1,0 +1,126 @@
+html,body{
+height: 100%;
+width:100%;
+font-family: 'poppins',sans-serif;
+color:rgb(48, 46, 46);
+}
+.h1{
+font-family: georgia,sans-serif;
+font-size: 2.5rem;
+letter-spacing: -2px;
+margin-top: 1em;
+padding-top: 1em;
+line-height: 1.25;
+color: burlywood;
+}
+.h2{
+font-family: "trebuchet MS",sans-serif;
+font-size: 5em;
+letter-spacing: -2px;
+border-bottom: 2px solid black;
+text-transform: capitalize;
+text-shadow: grey;
+}
+.carousel.carousel-item{
+height: 500px;
+}
+.carousel-item img{
+height: 320px;
+border-radius: 5px;
+}
+
+.navbar{
+padding: .8rem;
+}
+navbar-nav li{
+padding-right: 20px;
+}
+.nav-link{
+font-size: 1.1em !important;
+}
+.fa-home{
+color: grey;
+font-size: 30px;
+}
+.fa-search{
+color: black;
+}
+.fa-cloud{
+color: aquamarine;
+}
+.fa-trash{
+color: darksalmon;
+}
+.fa-home,.fa-search,.fa-cloud,.fa-trash{
+font-size: 100px;
+margin: 2rem;
+}
+.welcome hr {
+border-top: 2px solid #b4b4b4;
+width: 60%;
+margin-top: .3rem;
+margin-bottom: 1;
+}
+.about hr {
+border-top: 2px solid #b4b4b4;
+width: 35%;
+margin-top: .3rem;
+margin-bottom: 1;
+}
+. hr {
+border-top: 2px solid #b4b4b4;
+width: 35%;
+margin-top: .3rem;
+margin-bottom: 1;
+}
+.contact hr{
+border-top: 2px solid #b4b4b4;
+width: 50%;
+margin-top: .3rem;
+margin-bottom: 1;
+}
+
+.fa layout {
+padding: 0px;
+font-size: 80px;
+width: 50px;
+text-align: center;
+text-decoration: none;
+margin: 5px 2px;
+}
+
+.fa:hover {
+opacity: 0.7;
+}
+
+.fa-facebook {
+background: #3B5998;
+color: white;
+border-radius: 10px;
+font-size: 30px;
+border-style: groove;
+}
+
+.fa-twitter {
+background: #55ACEE;
+color: white;
+font-size: 30px;
+border-radius: 10px;
+border-style: groove;
+}
+
+.fa-linkedin {
+background: #007bb5;
+color: white;
+font-size: 30px;
+border-radius: 10px;
+border-style: groove;
+}
+
+.fa-instagram {
+background: #bd1973;
+color: white;
+font-size: 30px;
+border-radius: 10px;
+border-style: groove;
+}
